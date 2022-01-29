@@ -1,0 +1,7 @@
+C:\Users\PC\OneDrive\Escritorio\practicas progrmacion\c#\practicas de poo\checador\bin\Debug\checador.exe.config
+C:\Users\PC\OneDrive\Escritorio\practicas progrmacion\c#\practicas de poo\checador\bin\Debug\checador.exe
+C:\Users\PC\OneDrive\Escritorio\practicas progrmacion\c#\practicas de poo\checador\bin\Debug\checador.pdb
+C:\Users\PC\OneDrive\Escritorio\practicas progrmacion\c#\practicas de poo\checador\obj\Debug\checador.csprojAssemblyReference.cache
+C:\Users\PC\OneDrive\Escritorio\practicas progrmacion\c#\practicas de poo\checador\obj\Debug\checador.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\practicas progrmacion\c#\practicas de poo\checador\obj\Debug\checador.exe
+C:\Users\PC\OneDrive\Escritorio\practicas progrmacion\c#\practicas de poo\checador\obj\Debug\checador.pdb

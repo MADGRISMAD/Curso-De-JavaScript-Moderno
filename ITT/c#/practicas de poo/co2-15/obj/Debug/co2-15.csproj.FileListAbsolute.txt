@@ -1,0 +1,6 @@
+C:\Users\PC\OneDrive\Escritorio\practicas de poo\co2-15\bin\Debug\co2-15.exe.config
+C:\Users\PC\OneDrive\Escritorio\practicas de poo\co2-15\bin\Debug\co2-15.exe
+C:\Users\PC\OneDrive\Escritorio\practicas de poo\co2-15\bin\Debug\co2-15.pdb
+C:\Users\PC\OneDrive\Escritorio\practicas de poo\co2-15\obj\Debug\co2-15.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\practicas de poo\co2-15\obj\Debug\co2-15.exe
+C:\Users\PC\OneDrive\Escritorio\practicas de poo\co2-15\obj\Debug\co2-15.pdb

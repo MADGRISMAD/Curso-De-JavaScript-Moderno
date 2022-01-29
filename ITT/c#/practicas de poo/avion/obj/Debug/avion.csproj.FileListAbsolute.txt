@@ -1,0 +1,7 @@
+C:\Users\PC\OneDrive\Escritorio\practicas progrmacion\c#\practicas de poo\avion\bin\Debug\avion.exe.config
+C:\Users\PC\OneDrive\Escritorio\practicas progrmacion\c#\practicas de poo\avion\bin\Debug\avion.exe
+C:\Users\PC\OneDrive\Escritorio\practicas progrmacion\c#\practicas de poo\avion\bin\Debug\avion.pdb
+C:\Users\PC\OneDrive\Escritorio\practicas progrmacion\c#\practicas de poo\avion\obj\Debug\avion.csprojAssemblyReference.cache
+C:\Users\PC\OneDrive\Escritorio\practicas progrmacion\c#\practicas de poo\avion\obj\Debug\avion.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\practicas progrmacion\c#\practicas de poo\avion\obj\Debug\avion.exe
+C:\Users\PC\OneDrive\Escritorio\practicas progrmacion\c#\practicas de poo\avion\obj\Debug\avion.pdb
