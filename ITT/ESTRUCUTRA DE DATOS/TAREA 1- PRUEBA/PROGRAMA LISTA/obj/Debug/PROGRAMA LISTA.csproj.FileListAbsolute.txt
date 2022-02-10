@@ -1,0 +1,7 @@
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\TAREA 1- PRUEBA\PROGRAMA LISTA\bin\Debug\PROGRAMA LISTA.exe.config
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\TAREA 1- PRUEBA\PROGRAMA LISTA\bin\Debug\PROGRAMA LISTA.exe
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\TAREA 1- PRUEBA\PROGRAMA LISTA\bin\Debug\PROGRAMA LISTA.pdb
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\TAREA 1- PRUEBA\PROGRAMA LISTA\obj\Debug\PROGRAMA LISTA.csprojAssemblyReference.cache
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\TAREA 1- PRUEBA\PROGRAMA LISTA\obj\Debug\PROGRAMA LISTA.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\TAREA 1- PRUEBA\PROGRAMA LISTA\obj\Debug\PROGRAMA LISTA.exe
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\TAREA 1- PRUEBA\PROGRAMA LISTA\obj\Debug\PROGRAMA LISTA.pdb
