@@ -1,0 +1,7 @@
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\TAREA 1.4.3-Memoria Local\1.4.3\bin\Debug\1.4.3.exe.config
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\TAREA 1.4.3-Memoria Local\1.4.3\bin\Debug\1.4.3.exe
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\TAREA 1.4.3-Memoria Local\1.4.3\bin\Debug\1.4.3.pdb
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\TAREA 1.4.3-Memoria Local\1.4.3\obj\Debug\1.4.3.csprojAssemblyReference.cache
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\TAREA 1.4.3-Memoria Local\1.4.3\obj\Debug\1.4.3.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\TAREA 1.4.3-Memoria Local\1.4.3\obj\Debug\1.4.3.exe
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\TAREA 1.4.3-Memoria Local\1.4.3\obj\Debug\1.4.3.pdb
