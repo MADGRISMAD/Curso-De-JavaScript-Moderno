@@ -1,0 +1,7 @@
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\tarea 2.2.2 fibonachi\2.2.2 fibonachi\bin\Debug\2.2.2 fibonachi.exe.config
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\tarea 2.2.2 fibonachi\2.2.2 fibonachi\bin\Debug\2.2.2 fibonachi.exe
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\tarea 2.2.2 fibonachi\2.2.2 fibonachi\bin\Debug\2.2.2 fibonachi.pdb
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\tarea 2.2.2 fibonachi\2.2.2 fibonachi\obj\Debug\2.2.2 fibonachi.csprojAssemblyReference.cache
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\tarea 2.2.2 fibonachi\2.2.2 fibonachi\obj\Debug\2.2.2 fibonachi.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\tarea 2.2.2 fibonachi\2.2.2 fibonachi\obj\Debug\2.2.2 fibonachi.exe
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\tarea 2.2.2 fibonachi\2.2.2 fibonachi\obj\Debug\2.2.2 fibonachi.pdb
