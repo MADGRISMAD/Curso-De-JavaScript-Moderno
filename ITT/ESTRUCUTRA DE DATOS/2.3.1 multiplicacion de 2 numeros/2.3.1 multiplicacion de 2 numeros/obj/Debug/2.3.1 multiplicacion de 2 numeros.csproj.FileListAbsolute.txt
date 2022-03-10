@@ -1,0 +1,7 @@
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\2.3.1 multiplicacion de 2 numeros\2.3.1 multiplicacion de 2 numeros\bin\Debug\2.3.1 multiplicacion de 2 numeros.exe.config
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\2.3.1 multiplicacion de 2 numeros\2.3.1 multiplicacion de 2 numeros\bin\Debug\2.3.1 multiplicacion de 2 numeros.exe
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\2.3.1 multiplicacion de 2 numeros\2.3.1 multiplicacion de 2 numeros\bin\Debug\2.3.1 multiplicacion de 2 numeros.pdb
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\2.3.1 multiplicacion de 2 numeros\2.3.1 multiplicacion de 2 numeros\obj\Debug\2.3.1 multiplicacion de 2 numeros.csprojAssemblyReference.cache
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\2.3.1 multiplicacion de 2 numeros\2.3.1 multiplicacion de 2 numeros\obj\Debug\2.3.1 multiplicacion de 2 numeros.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\2.3.1 multiplicacion de 2 numeros\2.3.1 multiplicacion de 2 numeros\obj\Debug\2.3.1 multiplicacion de 2 numeros.exe
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\2.3.1 multiplicacion de 2 numeros\2.3.1 multiplicacion de 2 numeros\obj\Debug\2.3.1 multiplicacion de 2 numeros.pdb
