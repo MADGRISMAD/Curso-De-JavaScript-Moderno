@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="inegi" id="1D3F7B38-03D0-6668-292E-36CA33709156" version="3.5">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:06:03 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>1D3F7B38-03D0-6668-292E-36CA33709156</designId>
+</OSDM_Design>

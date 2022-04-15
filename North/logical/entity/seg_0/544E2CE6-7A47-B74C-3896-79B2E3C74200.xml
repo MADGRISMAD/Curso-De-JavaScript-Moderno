@@ -1,0 +1,91 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="544E2CE6-7A47-B74C-3896-79B2E3C74200" name="Categories">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 05:35:21 UTC</createdTime>
+<generatorID>657DDA83-F247-1E22-025E-E23B51358721</generatorID>
+<ownerDesignName>North</ownerDesignName>
+<engineerTo>
+<item key="757BE4A5-7F8C-CF40-86FB-4068A396FDFC" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="CategoryID" id="0CA036B9-3366-79FB-8D10-843B6B0E05DB">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 05:35:21 UTC</createdTime>
+<generatorID>78E2DEE4-461A-EDC1-F7B7-53B3A3448C80</generatorID>
+<ownerDesignName>North</ownerDesignName>
+<engineerTo>
+<item key="757BE4A5-7F8C-CF40-86FB-4068A396FDFC" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="CategoryName" id="AE3AB3D6-5084-1D01-E30F-10C5AFC80957">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 05:35:21 UTC</createdTime>
+<generatorID>DC87AC85-A473-1047-E244-DF9DA39C7A7D</generatorID>
+<ownerDesignName>North</ownerDesignName>
+<engineerTo>
+<item key="757BE4A5-7F8C-CF40-86FB-4068A396FDFC" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>15</dataTypeSize>
+<ownDataTypeParameters>15,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Description" id="2B4F7221-1FA4-A0F6-0ACB-7F2CE495FB14">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 05:35:21 UTC</createdTime>
+<generatorID>1D09F33E-24A7-BA68-0B8C-B72173FA2573</generatorID>
+<ownerDesignName>North</ownerDesignName>
+<engineerTo>
+<item key="757BE4A5-7F8C-CF40-86FB-4068A396FDFC" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT036</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Picture" id="F867D479-B0F3-B387-4906-61B78C9C1F93">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 05:35:21 UTC</createdTime>
+<generatorID>E9091ADA-347C-2A96-E406-7373CFFCC8A8</generatorID>
+<ownerDesignName>North</ownerDesignName>
+<engineerTo>
+<item key="757BE4A5-7F8C-CF40-86FB-4068A396FDFC" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT010</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="81A1962E-6728-2D6D-E374-2595C9FF6B03" name="Categories PK">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 05:35:21 UTC</createdTime>
+<generatorID>8ABB6DEE-9FAE-4295-02B1-625F01B049B9</generatorID>
+<ownerDesignName>North</ownerDesignName>
+<engineerTo>
+<item key="757BE4A5-7F8C-CF40-86FB-4068A396FDFC" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>0CA036B9-3366-79FB-8D10-843B6B0E05DB</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

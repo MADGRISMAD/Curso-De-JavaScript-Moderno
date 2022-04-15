@@ -1,0 +1,79 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="9E30C7AE-BD1F-162C-4AEF-4FC644B97614" name="Order  Details">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 04:47:01 UTC</createdTime>
+<ownerDesignName>North</ownerDesignName>
+<ordsAlias>table_9</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="OrderID" id="903DA858-7F75-FF83-76F2-02F82585A562">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 04:49:48 UTC</createdTime>
+<ownerDesignName>North</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ProductsID" id="3BF9FA79-960A-9B60-88EF-F7D0FA72E70B">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 05:10:20 UTC</createdTime>
+<ownerDesignName>North</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="UnitPrice" id="382C5EFD-749F-5FDE-61F5-76CC052FB23D">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 04:49:48 UTC</createdTime>
+<ownerDesignName>North</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT043</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Quantity" id="677ADA3B-0703-83FB-24F2-90747EE2CBF6">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 04:49:48 UTC</createdTime>
+<ownerDesignName>North</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT018</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Discount" id="D8C3168C-EF6E-3821-FF54-9F8A3A9798E8">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 04:49:48 UTC</createdTime>
+<ownerDesignName>North</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT022</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="8E308F8C-034D-F06E-334C-0FE528D9704A" name="Order  Details_PK">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 04:49:48 UTC</createdTime>
+<ownerDesignName>North</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="903DA858-7F75-FF83-76F2-02F82585A562"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

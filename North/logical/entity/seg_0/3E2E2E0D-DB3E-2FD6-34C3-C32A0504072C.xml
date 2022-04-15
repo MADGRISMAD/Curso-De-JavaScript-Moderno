@@ -1,0 +1,64 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="3E2E2E0D-DB3E-2FD6-34C3-C32A0504072C" name="Shippers">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 05:35:21 UTC</createdTime>
+<generatorID>F4E570E5-434C-6B20-0273-AD79DACD8A67</generatorID>
+<ownerDesignName>North</ownerDesignName>
+<engineerTo>
+<item key="757BE4A5-7F8C-CF40-86FB-4068A396FDFC" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="ShipperID" id="A3331A1C-CD1C-0125-C754-14862F826E49">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 05:35:21 UTC</createdTime>
+<generatorID>C12010E4-F504-6B54-5795-F2098C0384FB</generatorID>
+<ownerDesignName>North</ownerDesignName>
+<engineerTo>
+<item key="757BE4A5-7F8C-CF40-86FB-4068A396FDFC" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="CompanyName" id="70A3C671-5511-21EB-3931-71ACDE50F8B7">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 05:35:21 UTC</createdTime>
+<generatorID>91CD99A1-4185-B3CC-750D-2069C3030812</generatorID>
+<ownerDesignName>North</ownerDesignName>
+<engineerTo>
+<item key="757BE4A5-7F8C-CF40-86FB-4068A396FDFC" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>40</dataTypeSize>
+<ownDataTypeParameters>40,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Phone" id="EBD70F3D-0F2E-DEED-5A1A-905F9F828157">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 05:35:21 UTC</createdTime>
+<generatorID>D734EB79-5219-4BD7-9F22-A2707FEBA7BB</generatorID>
+<ownerDesignName>North</ownerDesignName>
+<engineerTo>
+<item key="757BE4A5-7F8C-CF40-86FB-4068A396FDFC" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>24</dataTypeSize>
+<ownDataTypeParameters>24,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+</Entity>

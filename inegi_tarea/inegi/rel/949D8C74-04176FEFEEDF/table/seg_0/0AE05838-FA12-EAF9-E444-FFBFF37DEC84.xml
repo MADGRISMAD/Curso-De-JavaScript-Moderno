@@ -1,0 +1,557 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="0AE05838-FA12-EAF9-E444-FFBFF37DEC84" name="Directorio Estadistico Nacional De Unidades Economicas">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:06:14 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<ordsAlias>table_1</ordsAlias>
+<abbreviation>DENUE</abbreviation>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="d_llave" id="2AF105D0-76E0-4B62-3F32-1240020A7C29">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>10</dataTypePrecision>
+<ownDataTypeParameters>,10,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="NIC" id="2C2A8A99-89B8-C5DC-5FD0-51CCB4D5FD70">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>9</dataTypeSize>
+<ownDataTypeParameters>9,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="NOP" id="71AC557A-3707-4987-5D60-DC236EDF3285">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>11</dataTypeSize>
+<ownDataTypeParameters>11,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="cve_ent" id="EF2E1AC6-3A29-15C1-5FA7-A234A7D4D95E">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>2</dataTypeSize>
+<ownDataTypeParameters>2,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="entidad" id="FFB61480-26D3-BCB7-DA68-F7B5173BBC07">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>32</dataTypeSize>
+<ownDataTypeParameters>32,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="cve_mun" id="03EFCEDA-B580-8570-1C67-B743B135995C">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>3</dataTypeSize>
+<ownDataTypeParameters>3,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="municipio" id="193FE969-73C4-CB85-6625-3BD4A3BAE460">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>46</dataTypeSize>
+<ownDataTypeParameters>46,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="cve_loc" id="FB782A41-F594-11C0-ACDB-78511E97546E">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>4</dataTypeSize>
+<ownDataTypeParameters>4,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="localidad" id="DFB9A14E-9938-FD65-EE03-2CFF386D4A5B">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>79</dataTypeSize>
+<ownDataTypeParameters>79,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ageb" id="299EDDDC-6191-444C-98BF-62D9333B4AF7">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>4</dataTypeSize>
+<ownDataTypeParameters>4,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="manzana" id="3DF0B278-5D2E-2B93-E8B8-893546B41E2D">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>3</dataTypeSize>
+<ownDataTypeParameters>3,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="nom_estab" id="72799191-1EE6-B3D2-200B-D958B22EB87C">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>150</dataTypeSize>
+<ownDataTypeParameters>150,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="nom_propie" id="83D7CB13-B2EB-EA3C-CD96-331B6884842B">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>150</dataTypeSize>
+<ownDataTypeParameters>150,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="tipo_calle" id="B164C50F-1B7A-B728-7FDD-851DCEBE192B">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>25</dataTypeSize>
+<ownDataTypeParameters>25,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="calle" id="2BDFD688-DCDB-987B-FAE7-B36708C6AAEA">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>75</dataTypeSize>
+<ownDataTypeParameters>75,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="tipo_vial1" id="2B5E86CC-D143-96AA-300B-E06A3740B0A8">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>25</dataTypeSize>
+<ownDataTypeParameters>25,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="calle_1" id="8CF026CA-7807-2F2F-37A4-E8712D7D34D7">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>75</dataTypeSize>
+<ownDataTypeParameters>75,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="tipo_vial2" id="6AFF1869-F38F-C8B7-B7B9-705B3B11EEB0">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>25</dataTypeSize>
+<ownDataTypeParameters>25,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="calle_2" id="4186B115-C141-44AA-C2E9-D2AD77174631">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>75</dataTypeSize>
+<ownDataTypeParameters>75,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="tipo_vial3" id="5233129B-E838-1781-33C9-623E6230A63D">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>25</dataTypeSize>
+<ownDataTypeParameters>25,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="calle_3" id="354D3224-FCFA-FAEC-C35E-32E6018D5C15">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>75</dataTypeSize>
+<ownDataTypeParameters>75,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="numero_ext" id="023FA6D2-4DD4-1626-B5F1-F085CD8305AF">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>35</dataTypeSize>
+<ownDataTypeParameters>35,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="edificio" id="437B7EF5-341D-C279-FA96-2CE078B0D36E">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>35</dataTypeSize>
+<ownDataTypeParameters>35,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="numero_int" id="24630FF5-703A-46A9-CE69-F97376729E2D">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>35</dataTypeSize>
+<ownDataTypeParameters>35,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="tipo_asent" id="F759AEE4-D52D-942D-B846-19CB430D4FDD">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>25</dataTypeSize>
+<ownDataTypeParameters>25,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="colonia" id="D3F9C212-B794-07DF-A74D-8D2C6138E7DC">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>75</dataTypeSize>
+<ownDataTypeParameters>75,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="cod_postal" id="372EAD6C-801C-58D7-E5B2-10CFE8406D83">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>5</dataTypeSize>
+<ownDataTypeParameters>5,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="telefono" id="2EB52393-0E64-7A18-5AF4-525BD4A89558">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>20</dataTypeSize>
+<ownDataTypeParameters>20,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="telefono2" id="EFCC502A-36D8-04E6-4913-948D124BD90E">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>20</dataTypeSize>
+<ownDataTypeParameters>20,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ext_tel1" id="3D85124C-25A1-4192-5ACF-6ED0FB8FC609">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>6</dataTypeSize>
+<ownDataTypeParameters>6,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ext_tel2" id="009334EB-7A57-AED1-30F6-CEABB75F74B6">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>6</dataTypeSize>
+<ownDataTypeParameters>6,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="fax" id="2AC170F4-B310-0652-649A-65D6E79F0167">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>20</dataTypeSize>
+<ownDataTypeParameters>20,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="clase_act" id="EB44B506-6EF8-7981-C3B8-8AC8C82A306B">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>6</dataTypeSize>
+<ownDataTypeParameters>6,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="desc_act" id="09112A17-083D-0AB2-D058-0A9B97E4AC22">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>160</dataTypeSize>
+<ownDataTypeParameters>160,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="centro_com" id="24F8D26D-08C6-7794-9E72-CE2E21D6DC19">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>75</dataTypeSize>
+<ownDataTypeParameters>75,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="num_local" id="8D9F6D33-3713-23A2-454F-A5D5EE6C484E">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>35</dataTypeSize>
+<ownDataTypeParameters>35,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="correoelec" id="7B636566-DCBF-F9DB-6200-67211462C43D">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>75</dataTypeSize>
+<ownDataTypeParameters>75,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="www" id="BC3F4ADE-2E6E-BB06-17E6-47CF9FD20D30">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>75</dataTypeSize>
+<ownDataTypeParameters>75,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="correoelec2" id="FE20D569-2E15-A6FE-D8A3-6A3722F58103">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>75</dataTypeSize>
+<ownDataTypeParameters>75,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="tipo_estab" id="A7DAEB10-9942-488F-AAF2-C61EBDC34308">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>1</dataTypeSize>
+<ownDataTypeParameters>1,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="tipo_ue" id="901EEB82-608F-FA01-E7BD-99A2F7E4BA79">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>1</dataTypeSize>
+<ownDataTypeParameters>1,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="est_perocu" id="2510CA9F-BAE4-7B9D-FFCA-7CAFDBAC80C2">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>5</dataTypePrecision>
+<ownDataTypeParameters>,5,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="des_perocu" id="419639FE-6ABB-5326-F607-026F8A64B23D">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>20</dataTypeSize>
+<ownDataTypeParameters>20,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="estatus" id="7C79F733-BA97-A58A-9144-D6ECFAA37F58">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>1</dataTypeSize>
+<ownDataTypeParameters>1,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="alta" id="0911AAA9-BCB1-0484-36D9-F2759092F7D7">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>15</dataTypeSize>
+<ownDataTypeParameters>15,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="longitud" id="6ADF6FA4-E080-4FE7-E3FB-5B47A62565E1">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>19</dataTypePrecision>
+<ownDataTypeParameters>,19,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="latitud" id="F6BDE903-6522-0912-FCAE-760D72609E74">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>19</dataTypePrecision>
+<ownDataTypeParameters>,19,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="38FA503D-9D00-143F-9438-EE8B067C14C0" name="Directorio Estadistico Nacional De Unidades Economicas_PK">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-03 21:25:56 UTC</createdTime>
+<ownerDesignName>inegi</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="2AF105D0-76E0-4B62-3F32-1240020A7C29"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

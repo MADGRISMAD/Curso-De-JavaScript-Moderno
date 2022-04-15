@@ -1,0 +1,36 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="DC001F30-4D5B-DA91-BD66-85F630D0E66E" name="CustomerCustomerDemo">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 05:25:36 UTC</createdTime>
+<ownerDesignName>North</ownerDesignName>
+<ordsAlias>table_17</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="CustomerID" id="E3208BCD-04EB-DA36-C613-1D7FE72C4F9E">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 05:26:24 UTC</createdTime>
+<ownerDesignName>North</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT035</logicalDatatype>
+<dataTypeSize>5</dataTypeSize>
+<ownDataTypeParameters>5,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="CustomerType" id="510E5E82-5DD8-FCEB-A267-B685DA889092">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 05:26:24 UTC</createdTime>
+<ownerDesignName>North</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT035</logicalDatatype>
+<dataTypeSize>10</dataTypeSize>
+<ownDataTypeParameters>10,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+</Table>

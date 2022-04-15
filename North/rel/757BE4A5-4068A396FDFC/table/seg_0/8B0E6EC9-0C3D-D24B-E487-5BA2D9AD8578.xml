@@ -1,0 +1,166 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="8B0E6EC9-0C3D-D24B-E487-5BA2D9AD8578" name="Suppliers">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 04:13:55 UTC</createdTime>
+<ownerDesignName>North</ownerDesignName>
+<ordsAlias>table_3</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="SupplierID" id="6C304928-9D5E-6040-06F4-C49AAAFAACC6">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 04:19:30 UTC</createdTime>
+<ownerDesignName>North</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="CompanyName" id="0F3D2C90-F53D-9B0B-E1BC-252CCF7E839F">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 04:19:30 UTC</createdTime>
+<ownerDesignName>North</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>40</dataTypeSize>
+<ownDataTypeParameters>40,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ContactName" id="78FCA81B-C9CF-BD81-59C0-8BC7C5C98830">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 04:19:30 UTC</createdTime>
+<ownerDesignName>North</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>30</dataTypeSize>
+<ownDataTypeParameters>30,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ContactTile" id="0504FCDF-9C67-12D3-8E7E-742482F3FEBB">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 04:19:30 UTC</createdTime>
+<ownerDesignName>North</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>30</dataTypeSize>
+<ownDataTypeParameters>30,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Addres" id="E120CC94-7ECB-8F9B-0239-479F167CFF91">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 04:19:30 UTC</createdTime>
+<ownerDesignName>North</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>60</dataTypeSize>
+<ownDataTypeParameters>60,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="City" id="610A865C-6D13-6CC9-6FB4-2905CE174CDD">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 04:19:30 UTC</createdTime>
+<ownerDesignName>North</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>15</dataTypeSize>
+<ownDataTypeParameters>15,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Region" id="66918EE6-F9EB-8D7B-CC34-75EC3EE33E90">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 04:19:30 UTC</createdTime>
+<ownerDesignName>North</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>15</dataTypeSize>
+<ownDataTypeParameters>15,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="PostalCode" id="10ADEEAC-4D0A-3F1E-49C7-BA48727B2D3E">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 04:19:30 UTC</createdTime>
+<ownerDesignName>North</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>10</dataTypeSize>
+<ownDataTypeParameters>10,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Country" id="4ED0A86E-5A0D-AA7E-09C4-95C93F497116">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 04:19:30 UTC</createdTime>
+<ownerDesignName>North</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>15</dataTypeSize>
+<ownDataTypeParameters>15,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Phone" id="A3DB256A-179D-1FA2-AA87-4E30EB9E2A7D">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 04:19:30 UTC</createdTime>
+<ownerDesignName>North</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>24</dataTypeSize>
+<ownDataTypeParameters>24,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Fax" id="05529A0D-C2B2-66FC-1EB2-26A69A179492">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 04:19:30 UTC</createdTime>
+<ownerDesignName>North</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>24</dataTypeSize>
+<ownDataTypeParameters>24,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="HomePage" id="1B9BFA62-B209-8977-77E1-356BADBA98F7">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 04:19:30 UTC</createdTime>
+<ownerDesignName>North</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT036</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="114415AF-80A5-917E-C8ED-527A099BCB8E" name="Suppliers_PK">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 04:31:38 UTC</createdTime>
+<ownerDesignName>North</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="6C304928-9D5E-6040-06F4-C49AAAFAACC6"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

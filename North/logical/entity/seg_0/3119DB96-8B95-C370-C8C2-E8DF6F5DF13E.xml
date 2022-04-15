@@ -1,0 +1,185 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="3119DB96-8B95-C370-C8C2-E8DF6F5DF13E" name="Customers">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 05:35:21 UTC</createdTime>
+<generatorID>52A32959-7524-6E58-D93C-D54035CC33DB</generatorID>
+<ownerDesignName>North</ownerDesignName>
+<engineerTo>
+<item key="757BE4A5-7F8C-CF40-86FB-4068A396FDFC" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="CustomerID" id="119311C7-C6CF-78E8-F504-6601A4B625BE">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 05:35:21 UTC</createdTime>
+<generatorID>7C7C5F59-E09E-1729-FC4F-9323FB6C0939</generatorID>
+<ownerDesignName>North</ownerDesignName>
+<engineerTo>
+<item key="757BE4A5-7F8C-CF40-86FB-4068A396FDFC" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT035</logicalDatatype>
+<dataTypeSize>5</dataTypeSize>
+<ownDataTypeParameters>5,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="CompanyName" id="BF500CD4-B826-28CC-5BD7-BD87FA785A04">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 05:35:21 UTC</createdTime>
+<generatorID>F904B1B9-BFBA-C5BB-B757-EFAF6B89DD88</generatorID>
+<ownerDesignName>North</ownerDesignName>
+<engineerTo>
+<item key="757BE4A5-7F8C-CF40-86FB-4068A396FDFC" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>40</dataTypeSize>
+<ownDataTypeParameters>40,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="ContactName" id="225B9F97-6E50-013A-685A-12E6776C60BE">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 05:35:21 UTC</createdTime>
+<generatorID>102B33EA-2E5F-8524-8ABB-5E3AAA6733BF</generatorID>
+<ownerDesignName>North</ownerDesignName>
+<engineerTo>
+<item key="757BE4A5-7F8C-CF40-86FB-4068A396FDFC" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>30</dataTypeSize>
+<ownDataTypeParameters>30,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="ContectTitle" id="CF0EFEC1-DF3C-ECF0-9BDB-B412EA8EB6E2">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 05:35:21 UTC</createdTime>
+<generatorID>2A0FF1C2-3259-FF5A-9AD9-69358977A985</generatorID>
+<ownerDesignName>North</ownerDesignName>
+<engineerTo>
+<item key="757BE4A5-7F8C-CF40-86FB-4068A396FDFC" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>30</dataTypeSize>
+<ownDataTypeParameters>30,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Address" id="CC3044E0-427F-1730-8D41-240D63B473A5">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 05:35:21 UTC</createdTime>
+<generatorID>BCC99672-C9BA-F63C-27C3-7C8E1C497301</generatorID>
+<ownerDesignName>North</ownerDesignName>
+<engineerTo>
+<item key="757BE4A5-7F8C-CF40-86FB-4068A396FDFC" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>60</dataTypeSize>
+<ownDataTypeParameters>60,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="City" id="D522FA6B-243C-985A-61EA-04C618DFB30C">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 05:35:21 UTC</createdTime>
+<generatorID>AA312EBF-9F8C-256B-5D21-C9030DF3F95C</generatorID>
+<ownerDesignName>North</ownerDesignName>
+<engineerTo>
+<item key="757BE4A5-7F8C-CF40-86FB-4068A396FDFC" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>15</dataTypeSize>
+<ownDataTypeParameters>15,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Region" id="0D40FE03-0B47-B6E2-9C3E-DB63AFBEFF4F">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 05:35:21 UTC</createdTime>
+<generatorID>7D1DED57-E35B-D444-DC27-42D0D85AF715</generatorID>
+<ownerDesignName>North</ownerDesignName>
+<engineerTo>
+<item key="757BE4A5-7F8C-CF40-86FB-4068A396FDFC" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>15</dataTypeSize>
+<ownDataTypeParameters>15,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="PostalCode" id="B8EFB5AE-5AAD-E81A-CC8D-75622DF0A8B4">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 05:35:21 UTC</createdTime>
+<generatorID>69158958-9A9E-6CE0-331B-4C604ABEA69F</generatorID>
+<ownerDesignName>North</ownerDesignName>
+<engineerTo>
+<item key="757BE4A5-7F8C-CF40-86FB-4068A396FDFC" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>10</dataTypeSize>
+<ownDataTypeParameters>10,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Country" id="EFB1B42C-2CCD-B99F-14E1-5A7270E1D762">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 05:35:21 UTC</createdTime>
+<generatorID>7702A631-6BDD-B2C3-9F29-DD281FE3AE18</generatorID>
+<ownerDesignName>North</ownerDesignName>
+<engineerTo>
+<item key="757BE4A5-7F8C-CF40-86FB-4068A396FDFC" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>15</dataTypeSize>
+<ownDataTypeParameters>15,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Phone" id="1BAE6F88-53B4-5A8D-719B-A32D4648384B">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 05:35:21 UTC</createdTime>
+<generatorID>DBE8FE02-C982-BDA0-D696-9DEB28317DC4</generatorID>
+<ownerDesignName>North</ownerDesignName>
+<engineerTo>
+<item key="757BE4A5-7F8C-CF40-86FB-4068A396FDFC" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>24</dataTypeSize>
+<ownDataTypeParameters>24,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Fax" id="DD61B726-8600-FD51-B82A-DD9EB3FA53FC">
+<createdBy>PC</createdBy>
+<createdTime>2022-04-02 05:35:21 UTC</createdTime>
+<generatorID>A98C060E-D36B-86CD-7942-2B9BE250FF84</generatorID>
+<ownerDesignName>North</ownerDesignName>
+<engineerTo>
+<item key="757BE4A5-7F8C-CF40-86FB-4068A396FDFC" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>24</dataTypeSize>
+<ownDataTypeParameters>24,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+</Entity>
