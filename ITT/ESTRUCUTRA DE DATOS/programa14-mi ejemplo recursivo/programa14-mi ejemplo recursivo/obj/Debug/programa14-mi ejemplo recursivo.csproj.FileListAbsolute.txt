@@ -1,0 +1,7 @@
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\programa14-mi ejemplo recursivo\programa14-mi ejemplo recursivo\bin\Debug\programa14-mi ejemplo recursivo.exe.config
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\programa14-mi ejemplo recursivo\programa14-mi ejemplo recursivo\bin\Debug\programa14-mi ejemplo recursivo.exe
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\programa14-mi ejemplo recursivo\programa14-mi ejemplo recursivo\bin\Debug\programa14-mi ejemplo recursivo.pdb
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\programa14-mi ejemplo recursivo\programa14-mi ejemplo recursivo\obj\Debug\programa14-mi ejemplo recursivo.csprojAssemblyReference.cache
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\programa14-mi ejemplo recursivo\programa14-mi ejemplo recursivo\obj\Debug\programa14-mi ejemplo recursivo.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\programa14-mi ejemplo recursivo\programa14-mi ejemplo recursivo\obj\Debug\programa14-mi ejemplo recursivo.exe
+C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\programa14-mi ejemplo recursivo\programa14-mi ejemplo recursivo\obj\Debug\programa14-mi ejemplo recursivo.pdb
