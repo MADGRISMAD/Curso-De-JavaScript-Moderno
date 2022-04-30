@@ -1,0 +1,7 @@
+C:\Users\MrGam\Desktop\UNIDAD 3 - PROGRAMAS - E.D.D\programa22-lista nombres colores\programa22-lista nombres colores\bin\Debug\programa22-lista nombres colores.exe.config
+C:\Users\MrGam\Desktop\UNIDAD 3 - PROGRAMAS - E.D.D\programa22-lista nombres colores\programa22-lista nombres colores\bin\Debug\programa22-lista nombres colores.exe
+C:\Users\MrGam\Desktop\UNIDAD 3 - PROGRAMAS - E.D.D\programa22-lista nombres colores\programa22-lista nombres colores\bin\Debug\programa22-lista nombres colores.pdb
+C:\Users\MrGam\Desktop\UNIDAD 3 - PROGRAMAS - E.D.D\programa22-lista nombres colores\programa22-lista nombres colores\obj\Debug\programa22-lista nombres colores.csprojAssemblyReference.cache
+C:\Users\MrGam\Desktop\UNIDAD 3 - PROGRAMAS - E.D.D\programa22-lista nombres colores\programa22-lista nombres colores\obj\Debug\programa22-lista nombres colores.csproj.CoreCompileInputs.cache
+C:\Users\MrGam\Desktop\UNIDAD 3 - PROGRAMAS - E.D.D\programa22-lista nombres colores\programa22-lista nombres colores\obj\Debug\programa22-lista nombres colores.exe
+C:\Users\MrGam\Desktop\UNIDAD 3 - PROGRAMAS - E.D.D\programa22-lista nombres colores\programa22-lista nombres colores\obj\Debug\programa22-lista nombres colores.pdb
