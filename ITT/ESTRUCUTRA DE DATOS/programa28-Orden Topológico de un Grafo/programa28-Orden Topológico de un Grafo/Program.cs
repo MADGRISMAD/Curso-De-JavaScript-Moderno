@@ -1,7 +1,7 @@
-﻿using System;
+using System;
 using System.Diagnostics;
 
-namespace programa28_Orden_Topológico_de_un_Grafo
+namespace programa26_Orden_Topológico_de_un_Grafo
 {
     class Grafo
     {
@@ -17,7 +17,7 @@ namespace programa28_Orden_Topológico_de_un_Grafo
             this.nodos = nodos;
             mAdyacencia = new int[nodos, nodos];
             indegree = new int[nodos];
-            vertices = new char[] { 'a', 'b', 'c', 'd' };
+            vertices = new char[] { '0', '1', '2', '3', '4', '5', '6' };
         }
 
         // Metodos de la clase
@@ -33,7 +33,7 @@ namespace programa28_Orden_Topológico_de_un_Grafo
 
             for (n = 0; n < vertices.Length; n++)
             {
-                Console.Write("\t{0,-4}", vertices[n]);
+                Console.Write("\t{0,-7}", vertices[n]);
             }
             Console.WriteLine();
 
@@ -43,7 +43,7 @@ namespace programa28_Orden_Topológico_de_un_Grafo
 
                 for (m = 0; m < nodos; m++)
                 {
-                    Console.Write("\t{0,-4}", mAdyacencia[n, m]);
+                    Console.Write("\t{0,-7}", mAdyacencia[n, m]);
                 }
                 Console.WriteLine();
             }
@@ -216,14 +216,21 @@ namespace programa28_Orden_Topológico_de_un_Grafo
 
                         Console.Clear();
 
-                        gf = new Grafo(4);
+                        gf = new Grafo(7);
                         Console.Write("\nEl Grafo Se creo Correctamente");
 
                         gf.CrearArista(0, 2);
                         gf.CrearArista(0, 1);
-                        gf.CrearArista(1, 2);
+                        gf.CrearArista(0, 3);
+
                         gf.CrearArista(1, 3);
                         gf.CrearArista(2, 3);
+
+                        gf.CrearArista(2, 4);
+                        gf.CrearArista(3, 5);
+                        gf.CrearArista(4, 5);
+
+
 
                         Console.Write("\nLas Arsitas se Añadieron Correctamente");
 
