@@ -1,4 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<oracle.dbtools.crest.model.design.relational.RelationalDesign>
-   <object objectType="Table" objectID="0AE05838-FA12-EAF9-E444-FFBFF37DEC84" name="Directorio Estadistico Nacional De Unidades Economicas" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.relational.Table" propertyParentId="949D8C74-463D-8961-10E5-04176FEFEEDF" propertySourceId="" propertyTargetId=""/>
-</oracle.dbtools.crest.model.design.relational.RelationalDesign>

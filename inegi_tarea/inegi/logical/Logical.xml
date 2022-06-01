@@ -1,7 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="2258E6C5-C63D-108F-293F-91E5ECEE51F4" mainViewID="E03092C9-B56D-208F-3F38-8D81F66AF4BC">
-<createdBy>PC</createdBy>
-<createdTime>2022-04-03 21:06:03 UTC</createdTime>
-<ownerDesignName>inegi</ownerDesignName>
-<shouldBeOpen>false</shouldBeOpen>
-</LogicalDesign>
