@@ -1,7 +1,0 @@
-C:\Users\MrGam\Desktop\UNIDAD 4 - PROGRAMAS - E.D.D\programa28-Orden Topológico de un Grafo\programa28-Orden Topológico de un Grafo\bin\Debug\programa28-Orden Topológico de un Grafo.exe.config
-C:\Users\MrGam\Desktop\UNIDAD 4 - PROGRAMAS - E.D.D\programa28-Orden Topológico de un Grafo\programa28-Orden Topológico de un Grafo\bin\Debug\programa28-Orden Topológico de un Grafo.exe
-C:\Users\MrGam\Desktop\UNIDAD 4 - PROGRAMAS - E.D.D\programa28-Orden Topológico de un Grafo\programa28-Orden Topológico de un Grafo\bin\Debug\programa28-Orden Topológico de un Grafo.pdb
-C:\Users\MrGam\Desktop\UNIDAD 4 - PROGRAMAS - E.D.D\programa28-Orden Topológico de un Grafo\programa28-Orden Topológico de un Grafo\obj\Debug\programa28-Orden Topológico de un Grafo.csprojAssemblyReference.cache
-C:\Users\MrGam\Desktop\UNIDAD 4 - PROGRAMAS - E.D.D\programa28-Orden Topológico de un Grafo\programa28-Orden Topológico de un Grafo\obj\Debug\programa28-Orden Topológico de un Grafo.csproj.CoreCompileInputs.cache
-C:\Users\MrGam\Desktop\UNIDAD 4 - PROGRAMAS - E.D.D\programa28-Orden Topológico de un Grafo\programa28-Orden Topológico de un Grafo\obj\Debug\programa28-Orden Topológico de un Grafo.exe
-C:\Users\MrGam\Desktop\UNIDAD 4 - PROGRAMAS - E.D.D\programa28-Orden Topológico de un Grafo\programa28-Orden Topológico de un Grafo\obj\Debug\programa28-Orden Topológico de un Grafo.pdb

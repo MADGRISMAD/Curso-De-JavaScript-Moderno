@@ -1,7 +1,0 @@
-C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\programa12-multiplicacion2numeros\programa12-multiplicacion2numeros\obj\Debug\programa12-multiplicacion2numeros.csprojAssemblyReference.cache
-C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\programa12-multiplicacion2numeros\programa12-multiplicacion2numeros\obj\Debug\programa12-multiplicacion2numeros.csproj.CoreCompileInputs.cache
-C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\programa12-multiplicacion2numeros\programa12-multiplicacion2numeros\bin\Debug\programa12-multiplicacion2numeros.exe.config
-C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\programa12-multiplicacion2numeros\programa12-multiplicacion2numeros\bin\Debug\programa12-multiplicacion2numeros.exe
-C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\programa12-multiplicacion2numeros\programa12-multiplicacion2numeros\bin\Debug\programa12-multiplicacion2numeros.pdb
-C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\programa12-multiplicacion2numeros\programa12-multiplicacion2numeros\obj\Debug\programa12-multiplicacion2numeros.exe
-C:\Users\PC\OneDrive\Escritorio\cursos y escuela\ITT\c#\ESTRUCUTRA DE DATOS\programa12-multiplicacion2numeros\programa12-multiplicacion2numeros\obj\Debug\programa12-multiplicacion2numeros.pdb

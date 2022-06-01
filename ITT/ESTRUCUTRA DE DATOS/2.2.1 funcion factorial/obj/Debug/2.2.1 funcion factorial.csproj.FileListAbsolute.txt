@@ -1,7 +1,0 @@
-C:\Users\PC\source\repos\2.2.1 funcion factorial\bin\Debug\2.2.1 funcion factorial.exe.config
-C:\Users\PC\source\repos\2.2.1 funcion factorial\bin\Debug\2.2.1 funcion factorial.exe
-C:\Users\PC\source\repos\2.2.1 funcion factorial\bin\Debug\2.2.1 funcion factorial.pdb
-C:\Users\PC\source\repos\2.2.1 funcion factorial\obj\Debug\2.2.1 funcion factorial.csprojAssemblyReference.cache
-C:\Users\PC\source\repos\2.2.1 funcion factorial\obj\Debug\2.2.1 funcion factorial.csproj.CoreCompileInputs.cache
-C:\Users\PC\source\repos\2.2.1 funcion factorial\obj\Debug\2.2.1 funcion factorial.exe
-C:\Users\PC\source\repos\2.2.1 funcion factorial\obj\Debug\2.2.1 funcion factorial.pdb

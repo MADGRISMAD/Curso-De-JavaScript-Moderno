@@ -1,7 +1,0 @@
-C:\Users\MrGam\Desktop\UNIDAD 3 - PROGRAMAS - E.D.D\programa21-lista numeros flotantes\programa21-lista numeros flotantes\bin\Debug\programa21-lista numeros flotantes.exe.config
-C:\Users\MrGam\Desktop\UNIDAD 3 - PROGRAMAS - E.D.D\programa21-lista numeros flotantes\programa21-lista numeros flotantes\bin\Debug\programa21-lista numeros flotantes.exe
-C:\Users\MrGam\Desktop\UNIDAD 3 - PROGRAMAS - E.D.D\programa21-lista numeros flotantes\programa21-lista numeros flotantes\bin\Debug\programa21-lista numeros flotantes.pdb
-C:\Users\MrGam\Desktop\UNIDAD 3 - PROGRAMAS - E.D.D\programa21-lista numeros flotantes\programa21-lista numeros flotantes\obj\Debug\programa21-lista numeros flotantes.csprojAssemblyReference.cache
-C:\Users\MrGam\Desktop\UNIDAD 3 - PROGRAMAS - E.D.D\programa21-lista numeros flotantes\programa21-lista numeros flotantes\obj\Debug\programa21-lista numeros flotantes.csproj.CoreCompileInputs.cache
-C:\Users\MrGam\Desktop\UNIDAD 3 - PROGRAMAS - E.D.D\programa21-lista numeros flotantes\programa21-lista numeros flotantes\obj\Debug\programa21-lista numeros flotantes.exe
-C:\Users\MrGam\Desktop\UNIDAD 3 - PROGRAMAS - E.D.D\programa21-lista numeros flotantes\programa21-lista numeros flotantes\obj\Debug\programa21-lista numeros flotantes.pdb
