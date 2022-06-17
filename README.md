@@ -7,8 +7,8 @@ projectos realizados en el curso de javascript moderno
 <b>02</b> - Strings-Terminado<br>
 <b>03</b> - Numeros-Terminado<br>
 <b>04</b> - Operadores-Terminado<br>
-<b>05</b> - <br>
-<b>06</b> - <br>
+<b>05</b> - Booleans-Terminado<br>
+<b>06</b> - Objetos-Terminado<br>
 <b>07</b> - <br>
 <b>08</b> - <br>
 <b>09</b> - <br>
