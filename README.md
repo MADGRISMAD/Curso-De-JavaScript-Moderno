@@ -1,2 +1,58 @@
-# school-proyects
-This repository will include all the proyects i made in my degree 
+# Curso De JavaScript Moderno-
+projectos realizados en el curso de javascript moderno 
+
+## Temario
+<b>00</b> - Introduccion-Terminado<br>
+<b>01</b> - Variable-Terminado<br>
+<b>02</b> - Strings-Terminado<br>
+<b>03</b> - Numeros-Terminado<br>
+<b>04</b> - Operadores-Terminado<br>
+<b>05</b> - <br>
+<b>06</b> - <br>
+<b>07</b> - <br>
+<b>08</b> - <br>
+<b>09</b> - <br>
+<b>10</b> - <br>
+<b>11</b> - <br>
+<b>12</b> - <br>
+<b>13</b> - <br>
+<b>14</b> - <br>
+<b>15</b> - <br>
+<b>16</b> - <br>
+<b>17</b> - <br>
+<b>18</b> - <br>
+<b>19</b> - <br>
+<b>20</b> - <br>
+<b>21</b> - <br>
+<b>22</b> - <br>
+<b>23</b> - <br>
+<b>24</b> - <br>
+<b>25</b> - <br>
+<b>26</b> - <br>
+<b>27</b> - <br>
+<b>28</b> - <br>
+<b>29</b> - <br>
+<b>30</b> - <br>
+<b>31</b> - <br>
+<b>32</b> - <br>
+<b>33</b> - <br>
+<b>34</b> - <br>
+<b>35</b> - <br>
+<b>36</b> - <br>
+<b>37</b> - <br>
+<b>38</b> - <br>
+<b>39</b> - <br>
+<b>40</b> - <br>
+<b>41</b> - <br>
+<b>42</b> - <br>
+<b>43</b> - <br>
+<b>44</b> - <br>
+<b>45</b> - <br>
+<b>46</b> - <br>
+<b>47</b> - <br>
+<b>48</b> - <br>
+<b>49</b> - <br>
+<b>50</b> - <br>
+<b>51</b> - <br>
+<b>52</b> - <br>
+<b>53</b> - <br>
